@@ -21,4 +21,4 @@ simplejson==3.11.1
 singer-python==5.7.0
 six==1.12.0
 -e git+https://github.com/anelendata/tap_bigquery.git@113560179525164710bcc9d617c915e1a8e3c978#egg=tap_bigquery
-urllib3==1.25.3
+urllib3==1.26.5
